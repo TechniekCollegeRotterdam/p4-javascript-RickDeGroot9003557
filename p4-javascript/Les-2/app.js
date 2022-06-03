@@ -33,5 +33,4 @@ window.addEventListener("keydown", function(e){
         bird.style.bottom = pixels + "px";
         document.getElementById("birdImage").src="img/b-down.svg";
     }
-
 });
